@@ -1,0 +1,1 @@
+# wordpress-plugin-marketing-manager
