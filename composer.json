@@ -1,0 +1,21 @@
+{
+  "name": "nickbreslin/wordpress-plugin-marketing-manager",
+  "type": "wordpress-plugin",
+  "keywords": ["wordpress", "plugin", "campaigns"],
+  "license": "MIT",
+  "description": "",
+  "homepage": "https://github.com/nickbreslin/wordpress-plugin-marketing-manager",
+  "authors": [
+    {
+      "name": "Nick Breslin",
+      "email": "nickbreslin@gmail.com",
+      "homepage": "https://github.com/nickbreslin"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+  }
+}
